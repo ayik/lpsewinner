@@ -1,5 +1,5 @@
 var should = require('should');
-var url = 'http://lpse.jakarta.go.id';
+var url = 'http://lpse.jemberkab.go.id';
 var EprocScraper = require('../index');
 var nock = require('nock');
 
